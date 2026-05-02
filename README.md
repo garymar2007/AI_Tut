@@ -22,3 +22,6 @@ anaconda-navigator
 
 ```
 3. launch Jupyter Notebook
+
+Alternatively, if you want to run any command in the Jupyter notebook, you need to start jupyter notebook
+$> jupter notebook --no-browser
